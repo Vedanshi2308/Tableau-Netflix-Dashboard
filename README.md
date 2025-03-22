@@ -1,12 +1,25 @@
 # Tableau-Netflix-Dashboard
 
+I recently worked on a Netflix Content Analysis & Dashboard, leveraging Excel, Tableau, and statistical modeling to explore content trends, audience preferences, and key performance indicators. This project provides insights into Netflix’s content strategy and user engagement.  
 
-This dataset from Kaggle provides comprehensive details on movies and TV shows available on Netflix as of 2019. It includes key attributes such as title, director, cast, country of production, release year, rating, runtime, and content type (movie or TV show).  
-
-The dataset serves as a valuable resource for data analysis, visualization, and modeling within the entertainment industry. Potential applications include:  
-- Analyzing the distribution of Netflix's content by country, genre, or release year.  
-- Exploring the relationship between viewer preferences and content ratings.  
-- Identifying patterns in Netflix's acquisition and production strategies.  
-- Predicting the success of future Netflix releases based on factors such as genre, duration, descriptions and release year.  
-
-It is important to note that the dataset is from 2019 and may not reflect more recent updates to Netflix’s content library. Additionally, there may be inherent biases, such as limited representation of non-English titles or content from specific regions.  
+🎬 Netflix Data Analysis | Data-Driven Insights  
+🔍 Objective:  
+Designed an interactive Netflix Dashboard to analyze content distribution, genre popularity, ratings, and runtime trends, using a dataset from Kaggle (2019) that includes details on movies, TV shows, directors, cast, countries, release years, and ratings.  
+📊 Key Analysis & Insights:  
+✅ Content Distribution Trends – Explored Netflix’s content by country, genre, and release year.  
+✅ Top 10 Genres by Popularity – Action, Drama, and Comedy dominate viewer preferences.  
+✅ Ratings & Viewer Votes – Analyzed top-rated Netflix content and audience reception.  
+✅ Content Runtime Analysis – Examined the relationship between runtime and engagement.  
+✅ Regression Analysis – Predicted content success based on genre, duration, and description.  
+✅ Netflix's Content Growth – Identified acquisition and production patterns.  
+📌 Tech Stack & Methods:  
+🔹 Data Cleaning & Preprocessing – Standardized genre, runtime, and rating data.  
+🔹 Tableau Visualization – Built dynamic dashboards with interactive filters.  
+🔹 Statistical Analysis & Regression Modeling – Predicted content success factors.  
+🔹 Exploratory Data Analysis (EDA) – Discovered key trends in Netflix’s content library.  
+📈 Strategic Insights & Recommendations:  
+✔ Focus on high-performing genres (Action, Drama, Comedy) for content planning.  
+✔ Leverage content ratings for personalized recommendations.  
+✔ Analyze user engagement to optimize content acquisition strategies.  
+📌 Dataset Insights:  
+This dataset from Kaggle (2019) provides comprehensive details on Netflix’s content, offering a valuable resource for entertainment industry analysis. While the dataset does not include recent updates, it provides a solid foundation for exploring historical trends and modeling content success factors.  remove 200 words from this
