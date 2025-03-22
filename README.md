@@ -1,4 +1,4 @@
-# Netflix-Tableau-Dashboard
+# Tableau-Netflix-Dashboard
 
 
 This dataset from Kaggle provides comprehensive details on movies and TV shows available on Netflix as of 2019. It includes key attributes such as title, director, cast, country of production, release year, rating, runtime, and content type (movie or TV show).  
